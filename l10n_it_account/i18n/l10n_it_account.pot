@@ -37,11 +37,6 @@ msgid "Accounting"
 msgstr ""
 
 #. module: l10n_it_account
-#: model:ir.model.fields,field_description:l10n_it_account.field_account_group_account_ids
-msgid "Accounts"
-msgstr ""
-
-#. module: l10n_it_account
 #: model:ir.model.fields,field_description:l10n_it_account.field_account_account_type_account_balance_sign
 #: model:ir.model.fields,field_description:l10n_it_account.field_account_group_account_balance_sign
 msgid "Balance sign"
